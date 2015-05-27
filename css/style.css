@@ -1,0 +1,25 @@
+.lesson {
+  background: #b03e3c;
+  text-decoration-color: #00ff00;
+  border-radius: 30px;
+  border-color: #041436;
+  margin: 2%;
+  padding: 1%;
+    }
+.concepts {
+  background: #b03e3c;
+}
+h1 {
+  text-align: center;
+  font-size: 24px;
+  color: #041436;
+}
+h2 {
+  font-size: 20px;
+  color: white;
+  font-weight: normal;
+}
+p {
+  font-size: 18px;
+  color: #041436;
+}
